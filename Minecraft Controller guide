@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft Controller & Download Guide</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+
+        h1, h2 {
+            color: #1a237e;
+        }
+
+        p {
+            color: #424242;
+        }
+
+        ol {
+            color: #424242;
+        }
+
+        a {
+            color: #1565c0;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Minecraft Controller & Download Guide</h1>
+
+    <h2>Using a Minecraft Controller</h2>
+    <p>
+        Minecraft can be played with various controllers. Follow these steps to set up your controller:
+    </p>
+    <ol>
+        <li>Connect your controller to your computer.</li>
+        <li>Open Minecraft and go to the Settings menu.</li>
+        <li>Find the "Controls" section and customize your controller settings.</li>
+        <li>Save your changes and start playing Minecraft with your controller!</li>
+    </ol>
+
+    <h2>Downloading Minecraft</h2>
+    <p>
+        Here's a step-by-step guide on how to download Minecraft:
+    </p>
+    <ol>
+        <li>Visit the official Minecraft website: <a href="https://www.minecraft.net/" target="_blank">https://www.minecraft.net/</a></li>
+        <li>Click on the "Get Minecraft" button.</li>
+        <li>Choose the edition of Minecraft you want to download (Java Edition or Bedrock Edition).</li>
+        <li>Follow the on-screen instructions to complete the purchase (if required).</li>
+        <li>Once purchased, log in to your Minecraft account.</li>
+        <li>Go to the "Downloads" section and download the installer for your operating system.</li>
+        <li>Run the installer and follow the installation instructions.</li>
+        <li>Launch Minecraft and start playing!</li>
+    </ol>
+
+    <p>
+        Enjoy your Minecraft experience with your controller!
+    </p>
+</body>
+</html>
+
